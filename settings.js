@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//                              𝙱𝙰𝙳 𝙰𝙻𝚅𝙸𝙽
+//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝚂𝙰𝙽𝙳𝚄𝚂𝙷𝙰
 //
 //════════════════════════════//
 
@@ -24,11 +24,11 @@ global.premium = ['SANDUSHA']
 global.ownernomer = '+94781283816'
 global.ownername = '🐦BAD ALVIN'
 global.botname = 'BAD ALVIN'
-global.footer = '©sandusha.'
+global.footer = '©sandusha kawshalya'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://www.reddit.com/user/alvin___1/'
+global.sc = 'https://wa.me/+94788825157'
+global.myweb = 'https://youtube.com/channel/UC-VBAbxLNILYiz_DnitaKnQ'
 global.packname = 'BAD ALVIN'
 global.author = '🐦BAD ALVIN'
 global.sessionName = 'session'
